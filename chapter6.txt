@@ -1,1 +1,1 @@
-This is chapter 6 and it was built inside the (FE-branch).
+This is chapter 6 and it was built inside the (FE-branch) and now it's getting modified inside the (FE-branch).
